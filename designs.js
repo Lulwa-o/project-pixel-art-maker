@@ -1,3 +1,4 @@
+    // Define user input height and width.
 function makeGrid(height, width) {
     const table = document.getElementById("pixelCanvas");
     let grid = '';
